@@ -79,7 +79,7 @@ footer {
   flex: 1;
   display: flex;
   /* changed flexwrap to nowrap */
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   justify-content: center;
   margin: 25px auto;
   width: 95%;
