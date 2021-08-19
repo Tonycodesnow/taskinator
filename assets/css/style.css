@@ -99,7 +99,7 @@ footer {
   list-style: none;
   padding: 15px;
   height: calc(100% - 50px);
-  background: rgb(196, 196, 196);
+  background: #D3E0EA;
   border-radius: 12px;
   border: 2px solid var(--grey);
 }
